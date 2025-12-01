@@ -5,3 +5,12 @@ config/.env
 *.bin
 *.gz
 
+bert_output/ 
+GoogleNews/ 
+videos/ 
+chroma/ 
+*.bin 
+*.pt 
+*.safetensors 
+*.mp4 
+*.sqlite3 
